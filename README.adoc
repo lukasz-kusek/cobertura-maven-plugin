@@ -1,4 +1,4 @@
-== maven-cobertura
+== Cobertura Maven Plugin
 
 === ABOUT
 
@@ -65,5 +65,6 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 === CHANGELOG
 
 ==== version 1.0.0
-*
+
+Not released yet.
 
