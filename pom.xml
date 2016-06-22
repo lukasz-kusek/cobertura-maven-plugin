@@ -40,7 +40,9 @@
 
     <name>Cobertura Maven Plugin</name>
     <description>Cobertura Maven plugin which avoids running tests twice.</description>
-    <url>https://github.com/lukasz-kusek/maven-cobertura</url>
+    <url>https://github.com/lukasz-kusek/cobertura-maven-plugin</url>
+
+    <packaging>maven-plugin</packaging>
 
     <dependencies>
 

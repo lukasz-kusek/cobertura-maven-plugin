@@ -14,7 +14,7 @@ Add dependency and repository to your pom file
         <plugin>
             <groupId>com.github.lukasz-kusek</groupId>
             <artifactId>cobertura-maven-plugin</artifactId>
-            <version>0.0.2</version>
+            <version>0.0.3</version>
             <executions>
                 <execution>
                     <goals>
