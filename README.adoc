@@ -12,7 +12,7 @@ Add dependency and repository to your pom file
 <build>
     <plugins>
         <plugin>
-            <groupId>com.github.lukasz-kusek.maven-cobertura</groupId>
+            <groupId>com.github.lukasz-kusek</groupId>
             <artifactId>cobertura-maven-plugin</artifactId>
             <version>0.0.1</version>
             <executions>
