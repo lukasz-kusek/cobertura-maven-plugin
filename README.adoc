@@ -14,7 +14,7 @@ Add dependency and repository to your pom file
         <plugin>
             <groupId>com.github.lukasz-kusek</groupId>
             <artifactId>cobertura-maven-plugin</artifactId>
-            <version>0.0.1</version>
+            <version>0.0.2</version>
             <executions>
                 <execution>
                     <goals>
@@ -28,12 +28,12 @@ Add dependency and repository to your pom file
 </build>
 
 [source,xml]
-<repositories>
-    <repository>
+<pluginRepositories>
+    <pluginRepository>
         <id>jitpack</id>
         <url>https://jitpack.io</url>
-    </repository>
-</repositories>
+    </pluginRepository>
+</pluginRepositories>
 
 === COPYRIGHT
 
